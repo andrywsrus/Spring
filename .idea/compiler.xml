@@ -15,6 +15,7 @@
         <module name="HW1" />
         <module name="Task5.1" />
         <module name="Task4.1" />
+        <module name="HW3" />
         <module name="Task6" />
         <module name="Task5" />
       </profile>
@@ -24,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="HW1" options="-parameters" />
       <module name="HW2" options="-parameters" />
+      <module name="HW3" options="-parameters" />
       <module name="Task1" options="-parameters" />
       <module name="Task2" options="-parameters" />
       <module name="Task3" options="-parameters" />
