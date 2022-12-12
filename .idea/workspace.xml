@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Spring HomeWork2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2D5v8MdPLpNR87gVu52k0R5NzAL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Документы/JAVA/projects/Spring/Spring&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task6\src\main\java\com\geekbrains\hibernate2\homework" />
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task6\src\main\resources" />
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task6\src\main\java" />
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task6" />
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task5\src\main\java\com\geekbraims\hibernate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1" />
+      <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\src" />
+      <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\src\main" />
+      <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\target" />
+      <recent name="C:\IdeProjects\SpringGeekBrains\Task6\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.market.web.data" />
+      <recent name="com.market.web.services" />
+      <recent name="com.market.web.controllers" />
+      <recent name="com.market.web" />
+      <recent name="com.geekbrains.spring" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="" />
+      <created>1660001602502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660001602502</updated>
+    </task>
+    <task id="LOCAL−00001" summary="Spring">
+      <created>1660001667686</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1660001667686</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Spring">
+      <created>1660001680892</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1660001680892</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Spring">
+      <created>1660035208380</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1660035208380</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Spring">
+      <created>1660035383710</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1660035383710</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Spring">
+      <created>1660036473639</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1660036473639</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Spring">
+      <created>1660560503662</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1660560503662</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Spring">
+      <created>1660560567673</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1660560567673</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Spring">
+      <created>1660588253898</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1660588253898</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Spring">
+      <created>1660588315885</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1660588315885</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Spring">
+      <created>1660593924061</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1660593924061</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Spring">
+      <created>1660687952084</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1660687952084</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Spring">
+      <created>1660688067543</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1660688067543</updated>
+    </task>
+    <task id="LOCAL−00013" summary="Spring">
+      <created>1660688193346</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1660688193346</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Spring">
+      <created>1660835661367</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1660835661367</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Spring">
+      <created>1660835743796</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1660835743796</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Spring">
+      <created>1660835918430</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1660835918430</updated>
+    </task>
+    <task id="LOCAL−00017" summary="Spring">
+      <created>1660933969845</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1660933969845</updated>
+    </task>
+    <task id="LOCAL−00018" summary="Spring">
+      <created>1660934102690</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1660934102690</updated>
+    </task>
+    <task id="LOCAL−00019" summary="Spring">
+      <created>1660934247477</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1660934247477</updated>
+    </task>
+    <task id="LOCAL−00020" summary="Spring">
+      <created>1660934295460</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1660934295460</updated>
+    </task>
+    <task id="LOCAL−00021" summary="Spring">
+      <created>1660954455268</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1660954455268</updated>
+    </task>
+    <task id="LOCAL−00022" summary="Spring">
+      <created>1660954714037</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1660954714037</updated>
+    </task>
+    <task id="LOCAL−00023" summary="Spring">
+      <created>1660998579530</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1660998579530</updated>
+    </task>
+    <task id="LOCAL−00024" summary="Spring">
+      <created>1661079858925</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1661079858925</updated>
+    </task>
+    <task id="LOCAL−00025" summary="Spring">
+      <created>1661080843873</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1661080843873</updated>
+    </task>
+    <task id="LOCAL−00026" summary="Spring">
+      <created>1661081943201</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1661081943201</updated>
+    </task>
+    <task id="LOCAL−00027" summary="Spring">
+      <created>1661083597781</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1661083597781</updated>
+    </task>
+    <task id="LOCAL−00028" summary="Spring">
+      <created>1661105373044</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1661105373044</updated>
+    </task>
+    <task id="LOCAL−00029" summary="Spring">
+      <created>1661108150068</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1661108150068</updated>
+    </task>
+    <task id="LOCAL−00030" summary="Spring">
+      <created>1661200201770</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1661200201770</updated>
+    </task>
+    <task id="LOCAL−00031" summary="Spring">
+      <created>1661200276901</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1661200276902</updated>
+    </task>
+    <task id="LOCAL−00032" summary="Spring">
+      <created>1661200308983</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1661200308983</updated>
+    </task>
+    <task id="LOCAL−00033" summary="Spring">
+      <created>1661267930680</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1661267930680</updated>
+    </task>
+    <task id="LOCAL−00034" summary="Spring">
+      <created>1661440354341</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1661440354341</updated>
+    </task>
+    <task id="LOCAL−00035" summary="Spring">
+      <created>1661440790909</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1661440790909</updated>
+    </task>
+    <task id="LOCAL−00036" summary="Spring">
+      <created>1661442256043</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1661442256043</updated>
+    </task>
+    <task id="LOCAL−00037" summary="Spring">
+      <created>1661442820407</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1661442820407</updated>
+    </task>
+    <task id="LOCAL−00038" summary="Spring">
+      <created>1661453690772</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1661453690772</updated>
+    </task>
+    <task id="LOCAL−00039" summary="Spring">
+      <created>1661459751756</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1661459751756</updated>
+    </task>
+    <task id="LOCAL−00040" summary="Spring">
+      <created>1661532974306</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1661532974306</updated>
+    </task>
+    <task id="LOCAL−00041" summary="Spring">
+      <created>1661537681620</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1661537681620</updated>
+    </task>
+    <task id="LOCAL−00042" summary="Spring">
+      <created>1661672599416</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1661672599417</updated>
+    </task>
+    <task id="LOCAL−00043" summary="Spring">
+      <created>1661723030064</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1661723030064</updated>
+    </task>
+    <task id="LOCAL−00044" summary="Spring">
+      <created>1661761013217</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1661761013217</updated>
+    </task>
+    <task id="LOCAL−00045" summary="Spring">
+      <created>1661761092249</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1661761092249</updated>
+    </task>
+    <task id="LOCAL−00046" summary="Spring">
+      <created>1661761618208</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1661761618208</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Spring">
+      <created>1670252148117</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1670252148117</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Spring HomeWork2">
+      <created>1670516447966</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516447966</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Spring" />
+    <MESSAGE value="Spring HomeWork1" />
+    <MESSAGE value="Spring HomeWork2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring HomeWork2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Task4.1/src/main/java/com/market/web/controllers/ProductController.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Task4.1/src/main/java/com/market/web/controllers/ProductController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Task4.1/src/main/java/com/market/web/controllers/ProductController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringGeekBrains$SpringWebApplication.ic" NAME="SpringWebApplication Coverage Results" MODIFIED="1660954109830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.geekbrains.spring.web.*</FILTER>
+    </SUITE>
+  </component>
+</project>

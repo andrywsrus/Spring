@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="simpleBean" class="shupeyko.spring.current.SimpleBean"/>
+
+    <bean id="simpleBean" class="shupeyko.spring.examples.SimpleBean" scope="prototype"/>
+    <bean id="simpleBean" class="shupeyko.spring.examples.SimpleBean" scope="singleton"/>
+
+    <bean id="cppCodeCreator" class="shupeyko.spring.examples.CppCodeCreator">
+        <constructor-arg ref="animalsClassNameGenerator"/>
+        <constructor-arg ref="anotherId2"/>
+        <constructor-arg ref="anotherId3"/>
+    </bean>
+
+    <bean id="exampleBean" class="examples.ExampleBean">
+        <constructor-arg type="int" value="7500000"/>
+        <constructor-arg type="java.lang.String" value="42"/>
+    </bean>
+
+    <bean id="exampleBean" class="examples.ExampleBean">
+        <constructor-arg index="0" value="7500000"/>
+        <constructor-arg index="1" value="42"/>
+    </bean>
+
+    <bean id="exampleBean" class="examples.ExampleBean">
+        <constructor-arg name="years" value="7500000"/>
+        <constructor-arg name="ultimateAnswer" value="42"/>
+    </bean>
+
+    <bean id="javaCodeCreator" class="shupeyko.spring.examples.JavaCodeCreator">
+        <property name="classNameGenerator">
+            <ref bean="animalsClassNameGenerator"/>
+        </property>
+    </bean>
+
+    <bean id="something" class="x.y.SomeClass">
+        <property name="accounts">
+            <map>
+                <entry key="one" value="9.99"/>
+            </map>
+        </property>
+    </bean>
+
+    <bean id="beanOne" class="ExampleBean" depends-on="manager,accountDao">
+        <property name="manager" ref="manager"/>
+    </bean>
+
+    <bean id="manager" class="ManagerBean"/>
+    <bean id="accountDao" class="x.y.jdbc.JdbcAccountDao"/>
+
+
+    <bean id="lazy" class="com.something.ExpensiveToCreateBean" lazy-init="true"/>
+
+    <bean id="exampleInitBean1" class="examples.ExampleBean1" init-method="init"/>
+    <bean id="exampleInitBean2" class="examples.ExampleBean2" destroy-method="cleanup"/>
+    <bean id="exampleInitBean3" class="examples.ExampleBean3" init-method="start" destroy-method="shutdown"/>
+</beans>

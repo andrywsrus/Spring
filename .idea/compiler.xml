@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Task2" />
+        <module name="Task1" />
+        <module name="Task4" />
+        <module name="HW2" />
+        <module name="Task3" />
+        <module name="HW1" />
+        <module name="Task5.1" />
+        <module name="Task4.1" />
+        <module name="Task6" />
+        <module name="Task5" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="HW1" options="-parameters" />
+      <module name="HW2" options="-parameters" />
+      <module name="Task1" options="-parameters" />
+      <module name="Task2" options="-parameters" />
+      <module name="Task3" options="-parameters" />
+      <module name="Task4" options="-parameters" />
+      <module name="Task4.1" options="-parameters" />
+      <module name="Task5" options="" />
+      <module name="Task5.1" options="" />
+      <module name="Task6" options="" />
+    </option>
+  </component>
+</project>
