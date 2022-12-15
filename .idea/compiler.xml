@@ -9,27 +9,30 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Task2" />
         <module name="Task1" />
-        <module name="Task4" />
         <module name="HW2" />
         <module name="Task3" />
         <module name="HW1" />
         <module name="Task5.1" />
+        <module name="HW4" />
         <module name="Task4.1" />
         <module name="HW3" />
         <module name="Task6" />
         <module name="Task5" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringGeekBrains" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="HW1" options="-parameters" />
       <module name="HW2" options="-parameters" />
       <module name="HW3" options="-parameters" />
+      <module name="HW4" options="-parameters" />
       <module name="Task1" options="-parameters" />
       <module name="Task2" options="-parameters" />
       <module name="Task3" options="-parameters" />
-      <module name="Task4" options="-parameters" />
       <module name="Task4.1" options="-parameters" />
       <module name="Task5" options="" />
       <module name="Task5.1" options="" />
