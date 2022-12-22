@@ -4,42 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Spring HomeWork 5">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
+    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/HW6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/CustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/ProductDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/util/SessionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/eshop/ProdiutServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/eshop/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/geekbrains/CalcServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/geekbrains/FirstServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/geekbrains/FormResultsServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/geekbrains/SecondServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/classes/shupeyko/geekbrains/ThirdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/eshop/ProdiutServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/eshop/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/geekbrains/CalcServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/geekbrains/FirstServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/geekbrains/FormResultsServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/geekbrains/SecondServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/classes/shupeyko/geekbrains/ThirdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/lib/logback-classic-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/lib/logback-core-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/eShop/proc.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/logback-classic-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/logback-core-1.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/lombok-1.18.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4/src/main/java/shupeyko/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/src/main/java/shupeyko/dao/ProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/src/main/java/shupeyko/dao/ProductDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +49,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HW5" />
+        <entry key="$PROJECT_DIR$" value="Test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,11 +112,11 @@
       <recent name="C:\IdeProjects\SpringGeekBrains\Task5\src\main\java\com\geekbraims\hibernate" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\Spring\HW6\src\main\resources" />
       <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1" />
       <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\src" />
       <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\src\main" />
       <recent name="C:\Users\User\OneDrive\Документы\JAVA\projects\Spring\SpringGeekBrains\HW1\target" />
-      <recent name="C:\IdeProjects\SpringGeekBrains\Task6\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.market.web.data" />
@@ -133,23 +126,12 @@
       <recent name="com.geekbrains.spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp">
-    <configuration name="AppRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.shupeyko.AppRun" />
-      <module name="HW3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.shupeyko.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.HomeWork4" />
-      <module name="HW4" />
+  <component name="RunManager" selected="Application.shupeyko.MainApp (1)">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
+      <module name="Spring" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="shupeyko.*" />
@@ -160,7 +142,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="shupeyko.HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.HW" />
+      <module name="HW6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shupeyko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shupeyko.MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
+      <module name="HW6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shupeyko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shupeyko.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
       <module name="HW5" />
       <extension name="coverage">
@@ -173,11 +181,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shupeyko.PrepareDataApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.PrepareDataApp" />
+      <module name="HW6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shupeyko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.shupeyko.MainApp (1)" />
         <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.HomeWork4" />
-        <item itemvalue="Application.AppRun" />
+        <item itemvalue="Application.shupeyko.HW" />
+        <item itemvalue="Application.shupeyko.PrepareDataApp" />
+        <item itemvalue="Application.shupeyko.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -192,12 +215,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660001602502</updated>
-    </task>
-    <task id="LOCAL−00005" summary="Spring">
-      <created>1660036473639</created>
-      <option name="number" value="LOCAL−00005" />
-      <option name="presentableId" value="LOCAL−00005" />
-      <updated>1660036473639</updated>
     </task>
     <task id="LOCAL−00006" summary="Spring">
       <created>1660560503662</created>
@@ -494,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671460945843</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Test">
+      <created>1671717202722</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1671717202725</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,7 +544,8 @@
     <MESSAGE value="Spring HomeWork3" />
     <MESSAGE value="Spring HomeWork 4" />
     <MESSAGE value="Spring HomeWork 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring HomeWork 5" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
