@@ -16,12 +16,15 @@
         <module name="HW4" />
         <module name="Task4.1" />
         <module name="HW3" />
+        <module name="HW6" />
         <module name="HW5" />
         <module name="Task6" />
         <module name="Task5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hibernate2" target="17" />
+      <module name="HW6Testing" target="17" />
       <module name="SpringGeekBrains" target="17" />
     </bytecodeTargetLevel>
   </component>
