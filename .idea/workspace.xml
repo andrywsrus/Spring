@@ -4,34 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/HW6/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/CustomerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/CustomerDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/dao/impl/ProductDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/java/shupeyko/util/SessionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/src/main/resources/import.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Spring HomeWork 7">
+      <change afterPath="$PROJECT_DIR$/HW8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/data/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/db/migration/V1__init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW8/src/test/java/shupeyko/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW4/src/main/java/shupeyko/services/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/src/main/java/shupeyko/dao/ProductDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/src/main/java/shupeyko/dao/ProductDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW6/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HW6/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Test" />
+        <entry key="$PROJECT_DIR$" value="HW7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,8 +113,47 @@
       <recent name="com.geekbrains.spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.shupeyko.MainApp (1)">
+  <component name="RunManager" selected="Application.HW7App">
+    <configuration name="HW7App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.HW7App" />
+      <module name="HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shupeyko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson7Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.igojig.spring.data_jpa_1.lesson_7.Lesson7Application" />
+      <module name="HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.igojig.spring.data_jpa_1.lesson_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
+      <module name="HW6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shupeyko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shupeyko.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
@@ -142,64 +168,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shupeyko.HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.HW" />
-      <module name="HW6" />
+    <configuration name="HW7EstoreTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="shupeyko.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shupeyko.MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
-      <module name="HW6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shupeyko.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shupeyko.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.MainApp" />
-      <module name="HW5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shupeyko.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shupeyko.PrepareDataApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.PrepareDataApp" />
-      <module name="HW6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shupeyko.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="shupeyko" />
+      <option name="MAIN_CLASS_NAME" value="shupeyko.HW7EstoreTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.shupeyko.MainApp (1)" />
-        <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.shupeyko.HW" />
-        <item itemvalue="Application.shupeyko.PrepareDataApp" />
+        <item itemvalue="Application.HW7App" />
+        <item itemvalue="JUnit.HW7EstoreTests" />
+        <item itemvalue="Application.Lesson7Application" />
         <item itemvalue="Application.shupeyko.MainApp" />
       </list>
     </recent_temporary>
@@ -215,18 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660001602502</updated>
-    </task>
-    <task id="LOCAL−00006" summary="Spring">
-      <created>1660560503662</created>
-      <option name="number" value="LOCAL−00006" />
-      <option name="presentableId" value="LOCAL−00006" />
-      <updated>1660560503662</updated>
-    </task>
-    <task id="LOCAL−00007" summary="Spring">
-      <created>1660560567673</created>
-      <option name="number" value="LOCAL−00007" />
-      <option name="presentableId" value="LOCAL−00007" />
-      <updated>1660560567673</updated>
     </task>
     <task id="LOCAL−00008" summary="Spring">
       <created>1660588253898</created>
@@ -518,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671717202725</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Spring HomeWork 6">
+      <created>1671724024363</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1671724024363</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Spring HomeWork 7">
+      <created>1672065650631</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1672065650633</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +535,9 @@
     <MESSAGE value="Spring HomeWork 4" />
     <MESSAGE value="Spring HomeWork 5" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Spring HomeWork 6" />
+    <MESSAGE value="Spring HomeWork 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring HomeWork 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
