@@ -4,20 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Spring HomeWork merge">
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/HW8App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/data/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/java/shupeyko/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/db/migration/V1__init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/main/resources/static/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW8/src/test/java/shupeyko/HW8AppTests.java" afterDir="false" />
+    <list default="true" id="869edfc1-bc96-4fb1-a30a-f7f588bce77f" name="Changes" comment="Spring HomeWork 8">
+      <change afterPath="$PROJECT_DIR$/HW9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/data/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/repository/specifications/ProductSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/java/shupeyko/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/resources/db/migration/V1__init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/main/resources/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW9/src/test/java/shupeyko/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/src/main/resources/db/migration/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/HW7/src/main/resources/db/migration/V1__init.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7/src/main/resources/db/migration/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/HW7/src/main/resources/db/migration/V1__insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW8/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/HW8/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HWmerge" />
+        <entry key="$PROJECT_DIR$" value="HW8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,10 +116,10 @@
       <recent name="com.geekbrains.spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.shupeyko.HW8App">
-    <configuration name="HW7App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shupeyko.HW7App" />
-      <module name="HW7" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shupeyko.Application" />
+      <module name="HW9" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="shupeyko.*" />
@@ -183,8 +188,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.shupeyko.HW8App" />
-        <item itemvalue="Application.shupeyko.HW7App" />
         <item itemvalue="JUnit.HW7EstoreTests" />
         <item itemvalue="Application.Lesson7Application" />
         <item itemvalue="Application.shupeyko.MainApp" />
@@ -202,12 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660001602502</updated>
-    </task>
-    <task id="LOCAL−00009" summary="Spring">
-      <created>1660588315885</created>
-      <option name="number" value="LOCAL−00009" />
-      <option name="presentableId" value="LOCAL−00009" />
-      <updated>1660588315885</updated>
     </task>
     <task id="LOCAL−00010" summary="Spring">
       <created>1660593924061</created>
@@ -508,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672323414783</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Spring HomeWork 8">
+      <created>1672325602988</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1672325602989</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,7 +544,8 @@
     <MESSAGE value="Spring HomeWork 6" />
     <MESSAGE value="Spring HomeWork 7" />
     <MESSAGE value="Spring HomeWork merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring HomeWork merge" />
+    <MESSAGE value="Spring HomeWork 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring HomeWork 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

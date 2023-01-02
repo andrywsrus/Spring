@@ -24,6 +24,7 @@
         <module>HW6</module>
         <module>HW7</module>
         <module>HW8</module>
+        <module>HW9</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
