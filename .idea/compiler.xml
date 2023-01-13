@@ -20,6 +20,7 @@
         <module name="HW5" />
         <module name="HW8" />
         <module name="HW7" />
+        <module name="HW9" />
         <module name="Task6" />
         <module name="Task5" />
       </profile>
@@ -38,6 +39,7 @@
       <module name="HW4" options="-parameters" />
       <module name="HW7" options="-parameters" />
       <module name="HW8" options="-parameters" />
+      <module name="HW9" options="-parameters" />
       <module name="Task1" options="-parameters" />
       <module name="Task2" options="-parameters" />
       <module name="Task3" options="-parameters" />
