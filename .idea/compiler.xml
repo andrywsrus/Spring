@@ -22,12 +22,14 @@
         <module name="HW7" />
         <module name="HW9" />
         <module name="HW10" />
+        <module name="HW11" />
         <module name="Task6" />
         <module name="Task5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hibernate2" target="17" />
+      <module name="HW111" target="11" />
       <module name="HW6Testing" target="17" />
       <module name="SpringGeekBrains" target="17" />
     </bytecodeTargetLevel>
@@ -36,6 +38,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="HW1" options="-parameters" />
       <module name="HW10" options="-parameters" />
+      <module name="HW11" options="-parameters" />
       <module name="HW2" options="-parameters" />
       <module name="HW3" options="-parameters" />
       <module name="HW4" options="-parameters" />
